@@ -15,3 +15,9 @@ My professional skills: **FIGMA, HTML5, CSS3, JS, Vue js, Nuxt js, Laravel, GitH
 _Tel:_  +7 701 721 1284
 
 _Site:_ [My Site](https://todo.poliweb.su/)
+
+[_GitHub:_ ](https://github.com/poliweb)
+
+[ _CodePen_ ](https://codepen.io/poliweb)
+
+[_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
