@@ -71,7 +71,6 @@ _My English is at a low level, due to a lack of communication_
 
 -------------------------------------------------------------
 
-
 ## Contacts
 
 _Tel:_  +7 701 721 1284
