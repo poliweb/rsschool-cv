@@ -5,8 +5,8 @@
 
 ![It`s Me](https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face,w_350/v1639893378/avatar_my_xrxg6d.webp)
 
-_Tel:_   **+7 701 721 1284** 
-[_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
+* _Tel:_   **+7 701 721 1284** 
+* [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
 <br/>
 <br/>
@@ -55,7 +55,8 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
   <script type="module" crossorigin src="/assets/index.9dfce00b.js"></script>
   <link rel="modulepreload" href="/assets/vendor.749ae498.js">
   <link rel="stylesheet" href="/assets/index.a15df4b1.css">
-<link rel="manifest" href="/manifest.webmanifest"></head>
+  <link rel="manifest" href="/manifest.webmanifest">
+</head>
 
 <body>
   <div id="app"></div>
@@ -64,7 +65,8 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 </html>
 ```
 
-You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
+* You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
+* My repositories on [GitHub](https://github.com/poliweb)
 
 <br/>
 <br/>
@@ -89,23 +91,33 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 3. Vue JS 3: Composition APU (with Pinia, Firebase 9 & Vite) 04.07.2022 from teacher Danny Connell. 🏆 [Certificate](https://www.udemy.com/certificate/UC-d3e0a10c-eb61-4f91-8a99-5a0a2c6dc4ef/)
 
+
+<br/>
+<br/>
+
+## Languages 🔊
+
+* Russian - native
+* Polish - spoken medium
+* English - spoken low level
+
 _My English is at a low level, due to a lack of communication_
-
-
-
-<br/>
-<br/>
 
 
 ## Contacts 📩
 
-_Tel:_  +7 701 721 1284
+* _Tel:_  +7 701 721 1284
+* _E-Mail:_ web@poliweb.su
 
 [ _My Site_ ](https://poliweb.su/)
 
 [_GitHub:_ ](https://github.com/poliweb)
 
 [ _CodePen_ ](https://codepen.io/poliweb)
+
+[ _Dribbble_ ](https://dribbble.com/PoliWeb)
+
+[ _Behance_ ](https://www.behance.net/poliweb)
 
 [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
