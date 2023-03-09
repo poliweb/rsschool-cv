@@ -75,6 +75,7 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 
 1. Prototype of the site [CHEF BREAKFAST caffe bistro master](https://chef-breakfast.netlify.app/)
 2. Prototype of the site [FASHION MODELS](https://pw-model-agency.netlify.app/)
+3. Web application - vue js + PWA [ToDo](https://todo.poliweb.su/)
 
 *Think of me as an extension of your team.*
 
