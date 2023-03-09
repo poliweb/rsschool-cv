@@ -105,13 +105,17 @@ _My English is at a low level, due to a lack of communication_
 
 ## Contacts
 
-_Tel:_  +7 701 721 1284
+* _Tel:_  +7 701 721 1284
 
-_Site:_ [My Site](https://todo.poliweb.su/)
+* _Site:_ [My Site](https://todo.poliweb.su/)
 
 [_GitHub:_ ](https://github.com/poliweb)
 
 [ _CodePen_ ](https://codepen.io/poliweb)
+
+[ _Dribbble_ ](https://dribbble.com/PoliWeb)
+
+[ _Behance_ ](https://www.behance.net/poliweb)
 
 [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
