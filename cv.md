@@ -5,7 +5,8 @@
 
 ![It`s Me](https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face,w_350/v1639893378/avatar_my_xrxg6d.webp)
 
-_Tel:_   **+7 701 721 1284** 
+* _Tel:_   **+7 701 721 1284** 
+* [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
 I am a web developer from Kazakhstan, the city of Alma-Ata. My experience is more than ten years. I like to follow the development of IT technologies and learn new knowledge every day with the opportunity to develop my web developer skills. My goal is to achieve excellence in writing code, to have a strong skill in developing world-class websites and web applications.
 
