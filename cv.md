@@ -6,6 +6,12 @@
 ![It`s Me](https://res.cloudinary.com/poliweb/image/upload/c_fill,g_face,w_350/v1639893378/avatar_my_xrxg6d.webp)
 
 _Tel:_   **+7 701 721 1284** 
+[_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
+
+<br/>
+<br/>
+
+## About me 🧔🏼‍♂️
 
 I am a web developer from Kazakhstan, the city of Alma-Ata. My experience is more than ten years. I like to follow the development of IT technologies and learn new knowledge every day with the opportunity to develop my web developer skills. My goal is to achieve excellence in writing code, to have a strong skill in developing world-class websites and web applications.
 
@@ -15,13 +21,20 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 **My strengths:** _As a true samurai, I have made my way into IT through self-education._
 
-My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
+<br/>
+<br/>
+
+## My professional skills 🛠️
+
+**FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
+<br/>
+<br/>
 
 
-💻  **My code example** 
+## My code example 💻 
 
 The full code of the main page on the client. **ToDo applications**, **Vue js framework. Using PWA and Tailwind CSS  technology**.
 
@@ -53,17 +66,22 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 
 You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
-🖥️  **Examples of my work**
+<br/>
+<br/>
+
+## Examples of my work 🖥️
+
 1. Prototype of the site [CHEF BREAKFAST caffe bistro master](https://chef-breakfast.netlify.app/)
 2. Prototype of the site [FASHION MODELS](https://pw-model-agency.netlify.app/)
 
 *Think of me as an extension of your team.*
 
--------------------------------------------------------------
+
+<br/>
+<br/>
 
 
-
-📖  **My education:**
+## My education 📖
 
 1. High Tech for Human specialist, PHP Programming - 2008 Year.
 
@@ -73,15 +91,17 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 _My English is at a low level, due to a lack of communication_
 
--------------------------------------------------------------
 
 
+<br/>
+<br/>
 
-## Contacts
+
+## Contacts 📩
 
 _Tel:_  +7 701 721 1284
 
-_Site:_ [My Site](https://todo.poliweb.su/)
+[ _My Site_ ](https://poliweb.su/)
 
 [_GitHub:_ ](https://github.com/poliweb)
 
@@ -89,6 +109,5 @@ _Site:_ [My Site](https://todo.poliweb.su/)
 
 [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
--------------------------------------------------------------
 
 🎖️ _I am always ready to be useful to your team, startup and business!_
