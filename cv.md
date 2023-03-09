@@ -30,7 +30,10 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
-💻  **My code example** 
+<br/>
+<br/>
+
+## My code example  💻
 
 The full code of the main page on the client. **ToDo applications**, **Vue js framework. Using PWA and Tailwind CSS  technology**.
 
@@ -60,7 +63,8 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 </html>
 ```
 
-You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
+* You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
+* My repositories on [GitHub](https://github.com/poliweb)
 
 🖥️  **Examples of my work**
 1. Prototype of the site [CHEF BREAKFAST caffe bistro master](https://chef-breakfast.netlify.app/)
