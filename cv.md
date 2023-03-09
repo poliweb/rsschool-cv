@@ -8,8 +8,8 @@
 * _Tel:_   **+7 701 721 1284** 
 * [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
-<br/>
-<br/>
+<br>
+<br>
 
 ## About me 🧔🏼‍♂️
 
@@ -21,8 +21,8 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 **My strengths:** _As a true samurai, I have made my way into IT through self-education._
 
-<br/>
-<br/>
+<br>
+<br>
 
 ## My professional skills 🛠️
 
@@ -30,8 +30,8 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
-<br/>
-<br/>
+<br>
+<br>
 
 ## My code example  💻
 
@@ -66,8 +66,8 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 * You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 * My repositories on [GitHub](https://github.com/poliweb)
 
-<br/>
-<br/>
+<br>
+<br>
 
 ## Examples of my work 🖥️ 
 1. Prototype of the site [CHEF BREAKFAST caffe bistro master](https://chef-breakfast.netlify.app/)
@@ -76,8 +76,10 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 
 *Think of me as an extension of your team.*
 
+<br>
+<br>
 
-📖  **My education:**
+## My education 📖 
 
 1. High Tech for Human specialist, PHP Programming - 2008 Year.
 
