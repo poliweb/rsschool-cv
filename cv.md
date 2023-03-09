@@ -88,7 +88,19 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 3. Vue JS 3: Composition APU (with Pinia, Firebase 9 & Vite) 04.07.2022 from teacher Danny Connell. 🏆 [Certificate](https://www.udemy.com/certificate/UC-d3e0a10c-eb61-4f91-8a99-5a0a2c6dc4ef/)
 
 
+<br/>
+<br/>
+
+## Languages 🔊
+
+* Russian - native
+* Polish - spoken medium
+* English - spoken low level
+
 _My English is at a low level, due to a lack of communication_
+
+<br/>
+<br/>
 
 
 ## Contacts
