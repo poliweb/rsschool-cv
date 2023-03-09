@@ -21,7 +21,12 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 **My strengths:** _As a true samurai, I have made my way into IT through self-education._
 
-My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
+<br/>
+<br/>
+
+## My professional skills 🛠️
+
+**FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
