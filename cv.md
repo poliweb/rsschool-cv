@@ -28,7 +28,7 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
 
-![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
+![Web Developer PoliWeb](https://res.cloudinary.com/poliweb/image/upload/g_north/v1687001794/ProgramingIllustration/PoliWebStartUp_c3k9lw.webp)
 
 <br>
 <br>
